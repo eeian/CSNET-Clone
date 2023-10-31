@@ -46,7 +46,7 @@ const Faq = () => {
                         3. What is a digital wallet, and why do I need one?
                     </p>
                     <p className={styles.heroSubtitle}>
-                        A digital wallet is essential for storing and managing your NFTs. It acts as a secure place to store your NFTs and interact with the marketplace. You'll need one to make purchases, receive NFTs, and manage your collections. 
+                        A digital wallet is essential for storing and managing your NFTs. It acts as a secure place to store your NFTs and interact with the marketplace. You&apos;ll need one to make purchases, receive NFTs, and manage your collections. 
                     </p>
                     <p className={styles.heroTitleFAQ}>
                         4. What can I buy on an NFT marketplace?
@@ -64,31 +64,31 @@ const Faq = () => {
                         6. How can I verify the authenticity of an NFT?
                     </p>
                     <p className={styles.heroSubtitle}>
-                        You can verify the authenticity of an NFT by checking the blockchain where it's minted. Each NFT has a unique digital signature that can be traced back to the original creator and the blockchain's transaction history.
+                        You can verify the authenticity of an NFT by checking the blockchain where it&apos;s minted. Each NFT has a unique digital signature that can be traced back to the original creator and the blockchain&apos;s transaction history.
                     </p>
                     <p className={styles.heroTitleFAQ}>
                         7. Is it safe to buy NFTs on a marketplace?
                     </p>
                     <p className={styles.heroSubtitle}>
-                        Generally, NFT marketplaces are secure, but it's essential to exercise caution. Stick to reputable marketplaces, do your research on the NFTs and creators, and be aware of potential scams. Always use secure digital wallets.    
+                        Generally, NFT marketplaces are secure, but it&apos;s essential to exercise caution. Stick to reputable marketplaces, do your research on the NFTs and creators, and be aware of potential scams. Always use secure digital wallets.    
                     </p>    
                     <p className={styles.heroTitleFAQ}>
-                        8. Can I resell NFTs I've purchased on the marketplace?
+                        8. Can I resell NFTs I&apos;ve purchased on the marketplace?
                     </p>
                     <p className={styles.heroSubtitle}>
-                        Yes, many NFT marketplaces allow you to resell NFTs you've purchased. You can list them for sale at your preferred price, and others can buy them from you.
+                        Yes, many NFT marketplaces allow you to resell NFTs you&apos;ve purchased. You can list them for sale at your preferred price, and others can buy them from you.
                     </p>    
                     <p className={styles.heroTitleFAQ}>
                         9. Are there any fees associated with NFT transactions?
                     </p>
                     <p className={styles.heroSubtitle}>
-                        Yes, there may be fees for creating, buying, and selling NFTs. These fees can include minting fees, gas fees (on Ethereum-based platforms), and marketplace transaction fees. Be sure to understand the fee structure on the specific marketplace you're using.
+                        Yes, there may be fees for creating, buying, and selling NFTs. These fees can include minting fees, gas fees (on Ethereum-based platforms), and marketplace transaction fees. Be sure to understand the fee structure on the specific marketplace you&apos;re using.
                     </p>    
                     <p className={styles.heroTitleFAQ}>
                         10. What happens if I lose access to my digital wallet?
                     </p>
                     <p className={styles.heroSubtitle}>
-                        If you lose access to your wallet, you may lose access to your NFTs. It's crucial to keep your wallet information and recovery phrases in a secure place to prevent this from happening.
+                        If you lose access to your wallet, you may lose access to your NFTs. It&apos;s crucial to keep your wallet information and recovery phrases in a secure place to prevent this from happening.
                     </p>    
                     <p className={styles.heroTitleFAQ}>
                         11. What blockchain networks are commonly used for NFTs, and how does Polygon fit in?
